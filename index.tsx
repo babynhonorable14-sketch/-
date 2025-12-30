@@ -14,3 +14,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
+<script type="module" src="/index.tsx"></script>
