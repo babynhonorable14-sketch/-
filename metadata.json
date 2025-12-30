@@ -1,0 +1,7 @@
+{
+  "name": "答题解锁密码系统",
+  "description": "集成 Gemini AI 的智能答题解锁应用。支持通过拍照或粘贴凌乱文本，由 AI 自动生成结构化选择题库。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
